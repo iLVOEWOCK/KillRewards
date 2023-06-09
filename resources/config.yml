@@ -1,0 +1,4 @@
+# Modify the amount of money given per kill: use {amount} to get the money for messages
+min_amount: 100
+max_amount: 1000
+message: "&r&aYou received &5${amount} &afor killing a player!"
